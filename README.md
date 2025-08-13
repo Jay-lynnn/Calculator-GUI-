@@ -7,7 +7,5 @@ This is my very first GUI calculator made with Python and Tkinter. It can:
 - Backspace with **⌫**
 - Use decimal points (American style 😅)
 
-I built this while learning how to make GUI apps — it’s messy but it works, and I’m proud of it 💪
-
-Made with way too much caffeine ☕ and way too little sleep 💤
+I built this while learning how to make GUI apps — it’s messy but it works.
 
